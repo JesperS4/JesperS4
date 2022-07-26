@@ -19,4 +19,4 @@
 
 
 # Stats
-![Statistics Overview](https://raw.githubusercontent.com/JesperS4/github-stats/master/generated/overview.svg)  ![Languages Overview](https://raw.githubusercontent.com/JesperS4/github-stats/master/generated/languages.svg)
+![Statistics Overview](https://raw.githubusercontent.com/Jesperr/github-stats/master/generated/overview.svg)  ![Languages Overview](https://raw.githubusercontent.com/Jesperr/github-stats/master/generated/languages.svg)
